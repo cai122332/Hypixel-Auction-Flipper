@@ -26,7 +26,7 @@
   "webhook": {
     "discordWebhookUrl": "WEBHOOK_URL",
     "webhookName": "Flipper",
-    "webhookPFP": "https://cdn.discordapp.com/avatars/486155512568741900/164084b936b4461fe9505398f7383a0e.png?size=4096"
+    "webhookPFP": "https://discord.com/api/webhooks/1280306597419028594/ARCl9jx9Rc_RYwWm6mjVxIlXAWcIFDxBHVoVeU6rm1FZtNwEJba3dZ6bkwIOG8DVKY_R"
   },
   "filters": {
     "rawCraftIgnoreEnchants": {
